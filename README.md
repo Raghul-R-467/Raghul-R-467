@@ -1,4 +1,4 @@
-- 💞️ Hi, I’m @Raghul-R-467
+- 💞️ Hi, I’m @Raghul R
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning to Develop the Frontend Projects
 - 📫 To reach me mail to 478.raghul@gmail.com
